@@ -1,0 +1,35 @@
+
+{
+        "list": [
+            {
+                "id": 101,
+                "name": "meetali"
+            },
+            {
+                "name": "meetali"
+            },
+            2,
+            5,
+            6
+        ]
+   
+}
+{
+  "list": [
+    {
+      "id": 101,
+      "name": "meetali"
+    },
+    {
+      "name": "meetali"
+    },
+    2,
+    5,
+    6,
+    {
+      "firstName": "meetali",
+      "lastName": "deoke",
+      "id": 1
+    }
+  ]
+}
